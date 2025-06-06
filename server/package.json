@@ -22,13 +22,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
-    "mongoose": "^8.4.1"
+    "express": "^4.21.2",
+    "mongoose": "^8.15.1"
   },
   "devDependencies": {
-    "@types/express": "^4.17.21",
-    "@types/node": "^20.12.7",
-    "dotenv": "^16.4.5",
-    "typescript": "^5.5.3"
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^4.17.22",
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^20.19.0",
+    "dotenv": "^16.5.0",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   }
 }
