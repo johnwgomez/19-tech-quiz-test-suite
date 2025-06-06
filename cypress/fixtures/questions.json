@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "choices": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyperlinking Text Markup"
+    ],
+    "correctAnswer": "Hyper Text Markup Language"
+  },
+  {
+    "id": 2,
+    "question": "Which company developed the React library?",
+    "choices": ["Google", "Facebook", "Microsoft", "Twitter"],
+    "correctAnswer": "Facebook"
+  },
+  {
+    "id": 3,
+    "question": "What is the command to install dependencies using npm?",
+    "choices": ["npm build", "npm install", "npm start", "npm test"],
+    "correctAnswer": "npm install"
+  },
+  {
+    "id": 4,
+    "question": "Which CSS property is used to change the text color?",
+    "choices": ["font-color", "text-color", "color", "font-style"],
+    "correctAnswer": "color"
+  },
+  {
+    "id": 5,
+    "question": "In JavaScript, which keyword declares a variable that cannot be reassigned?",
+    "choices": ["var", "let", "const", "static"],
+    "correctAnswer": "const"
+  },
+  {
+    "id": 6,
+    "question": "What does JSON stand for?",
+    "choices": [
+      "Java Standard Output Notation",
+      "JavaScript Object Notation",
+      "JavaScript Output Naming",
+      "Java Source Object Notation"
+    ],
+    "correctAnswer": "JavaScript Object Notation"
+  },
+  {
+    "id": 7,
+    "question": "Which method is used to fetch data from an API in JavaScript?",
+    "choices": ["axios()", "fetch()", "get()", "request()"],
+    "correctAnswer": "fetch()"
+  },
+  {
+    "id": 8,
+    "question": "Which database is a NoSQL document database commonly used with Node.js?",
+    "choices": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+    "correctAnswer": "MongoDB"
+  },
+  {
+    "id": 9,
+    "question": "In Git, which command creates a new branch?",
+    "choices": ["git branch <name>", "git checkout", "git init", "git new-branch"],
+    "correctAnswer": "git branch <name>"
+  },
+  {
+    "id": 10,
+    "question": "Which HTML element is used to include JavaScript code?",
+    "choices": ["<js>", "<script>", "<javascript>", "<code>"],
+    "correctAnswer": "<script>"
+  }
+]
