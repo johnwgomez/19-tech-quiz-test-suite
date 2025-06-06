@@ -1,5 +1,5 @@
 {
-  "name": "coding-quiz",
+  "name": "19-tech-quiz-test-suite",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -14,15 +14,15 @@
     "build": "cd server && npm run build",
     "seed": "cd server && npm run seed",
     "render-build": "npm install && npm run build",
-      "cypress:open": "cypress open",
-  "cypress:run":  "cypress run"
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@cypress/react": "^9.0.1",
-    "@cypress/webpack-dev-server": "^4.1.0",
+    "@cypress/vite-dev-server": "^6.0.3",
     "@types/react": "^18.3.23",
     "@types/react-dom": "^18.3.7",
     "@vitejs/plugin-react": "^4.3.1",
