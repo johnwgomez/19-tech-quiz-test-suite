@@ -1,8 +1,0 @@
-[
-  {
-    "id": 1,
-    "question": "Example?",
-    "choices": ["A", "B", "C", "D"],
-    "correctAnswer": "A"
-  }
-]
