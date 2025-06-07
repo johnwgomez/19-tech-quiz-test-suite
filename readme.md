@@ -8,6 +8,9 @@ A fun and interactive quiz app built with the MERN stack that lets you test your
 
 _This app is designed to run locally. See instructions below to get started._
 
+--
+
+## Walkthrough Video [https://app.screencastify.com/watch/OIGMiVfnkSH5Vglx1j36](https://app.screencastify.com/watch/OIGMiVfnkSH5Vglx1j36)
 ---
 
 ## 📸 Features
